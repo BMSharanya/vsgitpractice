@@ -1,6 +1,6 @@
 def my_f():
-    a = 3
-    return a
+    b = 3
+    return b
 
 
 my_f()
