@@ -1,6 +1,15 @@
+"""
+This module demonstrates a simple function example.
+"""
+
 def my_f():
-    b = 3
-    return b
+    """
+    Returns the integer value 3.
+    """
+    value = 3
+    return value
 
 
-my_f()
+result = my_f()
+print(result)
+
